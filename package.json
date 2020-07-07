@@ -1,7 +1,7 @@
 {
-  "name": "base-project",
+  "name": "typescript-node-express-api-starter",
   "version": "0.0.1",
-  "description": "Base project",
+  "description": "TypeScript Node Express API starter",
   "main": "dist/server.js",
   "scripts": {
     "build": "tsc",
